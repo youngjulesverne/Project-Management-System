@@ -1,3 +1,7 @@
+> **My contribution (Rafael Hasanov):** I built the login, registration and password-reset frontend (HTML, CSS, JavaScript) and its integration with the FastAPI auth endpoints. Most of this code was committed by a teammate ([commit 016d5f9](https://github.com/MatinAbaszada/Project-Management-System/commit/016d5f9313ae473d9b58dc13d7300eae9c4c71ba)); my own follow-up changes are in [commit 9321be2](https://github.com/MatinAbaszada/Project-Management-System/commit/9321be29af4b53dbfa8640d77f047a66c8585cfe). Team project for the Software Engineering course at Constructor University (2025).
+
+---
+
 # TaskUp – Focused Work, Beautifully Managed
 
 TaskUp is a modern, full-featured project management system for effective task tracking, team collaboration, resource planning, and scope management—all wrapped in a clean and intuitive interface.
